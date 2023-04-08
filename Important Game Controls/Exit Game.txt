@@ -1,0 +1,13 @@
+How do i exit the game?
+
+You may have noticed that when you join you cant plress any buttons.
+
+How to fix: (this is a self-made shortcut for the game)
+
+- Press F11
+(if you cant than press fn+f11 (snipping tool) )
+
+Still not working?
+
+- Contact on discord
+- Restart PC (works always)
